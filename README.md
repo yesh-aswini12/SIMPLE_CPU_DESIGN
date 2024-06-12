@@ -3,7 +3,7 @@ Designed and executed the construction of an Arithmetic and Logic Unit (ALU) via
 
 To use the .cv file on CircuitVerse, follow these steps:
 
-1.Go to the CircuitVerse website.
+1.Go to the [Circuitverse Website](https://circuitverse.org/).
 
 2.Click on Launch Simulator.
 
@@ -18,5 +18,3 @@ To use the .cv file on CircuitVerse, follow these steps:
 7.Once uploaded, you can view and edit the circuit in the CircuitVerse editor.
 
 For more information about the working of ALU, please refer to report.pdf.
-
-Note : My CircuitVerse Implementation here
